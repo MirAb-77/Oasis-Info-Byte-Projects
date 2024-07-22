@@ -1,4 +1,4 @@
-# 🌟 My Internship Journey at OasisInfiByte 🌟
+# 🌟 My Internship Journey at OasisInfoByte 🌟
 
 Welcome to the repository summarizing my 1-month remote internship at OasisInfiByte. During this period, I worked on four diverse and impactful data science projects. Below is an overview of each project along with links to their respective repositories for more details.
 
